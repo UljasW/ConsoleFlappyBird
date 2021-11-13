@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "PRvlVCd9mLfLW3FizExn1yN/zntS8HY0Z2yzPXGkS1+f4Hu6KnlCr+JVOKUG2AaC2sm9x+on3b/ttH1d7jaoCA==",
+  "success": true,
+  "projectFilePath": "\\\\fs1.ad.ssis.nu\\21ulwe\\Desktop\\Vscode repos\\Flappy bird\\Flappy bird.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\21ulwe\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.12\\microsoft.netcore.app.host.win-x64.5.0.12.nupkg.sha512"
+  ],
+  "logs": []
+}
